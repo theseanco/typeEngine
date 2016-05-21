@@ -1,0 +1,5 @@
+array = [40, 41, 24, 32]
+
+array = ' '.join(map(str,array))
+
+print(array)
