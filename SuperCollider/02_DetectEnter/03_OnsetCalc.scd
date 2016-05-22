@@ -95,3 +95,9 @@ OSCdef(\onsetResponder,{}))
 
 //The previous set of functions outputs a datapoint at index three. I will go from here tomorrow.
 //I need to make an OSCdef which translates data point 3 into one of the indices of the array which will be sent to Arduino.
+
+
+
+
+
+git
