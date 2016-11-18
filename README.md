@@ -1,3 +1,5 @@
+This performance was given on the 26th of May 2016 for Live Electronic Performance as part of my Masters degree. This branch of the repository has been left as a bookmark before the project was developed further
+
     This performance is tentatively titled 'typeEngine'. It is a performance in two movements for typist, laptop, mixed microphones, two floppy disk drives and eight relays. Please do get up and have a look at what is going on if you so wish.
 
     This performance is an implementation of a set of ideas given to me by Professor John Bowers at the start of the module, to severely limit my regular artistic practice. The idea was that I would produce a performance that did not use any sound synthesised in my program of choice, SuperCollider, and ideally write no 'code' during performance.
